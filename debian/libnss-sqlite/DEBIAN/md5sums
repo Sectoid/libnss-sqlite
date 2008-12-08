@@ -1,0 +1,8 @@
+5118d0b5c31f44980a795549a1d112dc  usr/share/doc/libnss-sqlite/README
+58b1aefacbf1cc3842d368d08f3c9390  usr/share/doc/libnss-sqlite/changelog.Debian.gz
+fa1d92c02359a1c7e0055564e2edbfc6  usr/share/doc/libnss-sqlite/copyright
+de5c24bad7d3065cc80b24a4cd8a0c7e  usr/share/doc/libnss-sqlite/README.Debian
+7eea07bd60ed0b80233bab05374dc23f  usr/share/doc/libnss-sqlite/changelog.gz
+a74ff1376717d30c04e2d9e74d79fac6  usr/lib/libnss_sqlite.so.2.0.0
+e6e8324dedd14a81f3ce3368dc43720b  usr/lib/libnss_sqlite.la
+893115a26698c442a23bae530bd18548  usr/lib/libnss_sqlite.a
