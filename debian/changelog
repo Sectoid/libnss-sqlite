@@ -1,3 +1,9 @@
+libnss-sqlite (0.2+gnoll3) lenny; urgency=low
+
+  * Fixing prefix from /usr -> /
+
+ -- Gleb Golubitsky <sectoid@gnolltech.org>  Sun, 08 Aug 2010 00:53:50 +0300
+
 libnss-sqlite (0.2+gnoll2) lenny; urgency=low
 
   [Gleb Golubitsky]  
