@@ -1,6 +1,10 @@
-libnss-sqlite (0.2) unstable; urgency=low
+libnss-sqlite (0.2+gnoll1) stable; urgency=low
 
+  [Sébastien Le Ray]
   * Initial Release.
+  
+  [Gleb Golubitsky]  
+  * Initial build for Lenny
 
- -- Sébastien Le Ray <sebastien-sqlite@orniz.org>  Mon, 08 Dec 2008 17:24:32 +0100
+ -- Gleb Golubitsky <sectoid@gnolltech.org>  Sun, 08 Aug 2010 00:25:07 +0300
 
