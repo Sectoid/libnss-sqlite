@@ -1,3 +1,11 @@
+libnss-sqlite (0.2+gnoll2) lenny; urgency=low
+
+  [Gleb Golubitsky]  
+  * Fixing distribution name  
+  * Maintainer changed to me ;)
+
+ -- Gleb Golubitsky <sectoid@gnolltech.org>  Sun, 08 Aug 2010 00:44:40 +0300
+
 libnss-sqlite (0.2+gnoll1) stable; urgency=low
 
   [Sébastien Le Ray]
